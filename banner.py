@@ -17,5 +17,6 @@ def print_banner(sentence):
 
         print('')
         print('hello!')
+        print('')
 
     print_box()
