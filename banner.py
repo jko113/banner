@@ -16,5 +16,6 @@ def print_banner(sentence):
             iterator += 1
 
         print('')
+        print('hello!')
 
     print_box()
